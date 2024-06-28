@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/Crypto/',
-    buildAssetsDir: 'assets'
   },
   vite: {
     base: '/Crypto/'
