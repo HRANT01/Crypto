@@ -5,9 +5,6 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/Crypto/',
   },
-  vite: {
-    base: '/Crypto/'
-  },
   plugins: [
     { src: '~/plugins/i18n.ts' },
   ],
